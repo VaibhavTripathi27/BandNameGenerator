@@ -19,13 +19,13 @@ To get started with the BandName Generator website on your local machine, follow
 1. **Clone the Repository:** Clone this repository to your local machine using your preferred method (HTTPS or SSH).
 
    ```
-   git clone https://github.com/your-username/bandname-generator.git
+   git clone https://github.com/your-username/BandNameGenerator.git
    ```
 
 2. **Navigate to the Directory:** Change your working directory to the cloned repository.
 
    ```
-   cd bandname-generator
+   cd BandNameGenerator
    ```
 
 3. **Open the Website:** Open the `index.html` file in your web browser to start using the BandName Generator.
